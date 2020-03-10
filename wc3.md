@@ -11,3 +11,8 @@ dank
 * reconfig build keys for Undead
 * expands CG s assing, call and viewport centre for buildings 5 6 7 and 4
 * viewport TC s
+
+
+10/3/2020 11:55:40 PM
+added osk chat
+fix assig 4 
