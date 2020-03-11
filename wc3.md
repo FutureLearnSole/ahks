@@ -14,5 +14,11 @@ dank
 
 
 10/3/2020 11:55:40 PM
-added osk chat
-fix assig 4 
+* added osk chat
+* fix assig 4 
+
+11/3/2020 2:14:59 PM
+* sub-headers 
+* moise wheel modifiers fine tuned
+* added viewport centre for 1 3 for split push
+* added hotkeys and hooks in wiki
