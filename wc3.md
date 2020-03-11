@@ -22,3 +22,7 @@ dank
 * moise wheel modifiers fine tuned
 * added viewport centre for 1 3 for split push
 * added hotkeys and hooks in wiki
+
+
+* experiment with !/^c for scout forward formations?
+* test split scout save group hotkey
