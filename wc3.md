@@ -32,7 +32,7 @@ dank
 * fine tune viewports to [pose](https://github.com/FutureLearnSole/ahks/wiki/pose-L-R)
   *  a
 * include basic rallies and patrols
-* 
+* added f1 items to e combi
 * 
 * 
 * 
