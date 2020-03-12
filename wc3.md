@@ -31,7 +31,7 @@ dank
 12/3/2020 
 * fine tune viewports to [pose](https://github.com/FutureLearnSole/ahks/wiki/pose-L-R)
   *  a
-* 
+* include basic rallies and patrols
 * 
 * 
 * 
