@@ -33,6 +33,6 @@ dank
   *  a
 * include basic rallies and patrols
 * added f1 items to e combi
-* 
+* **add lasso selects**
 * 
 * 
