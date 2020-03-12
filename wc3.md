@@ -4,6 +4,7 @@ dank
 * add/remove from CG s
 
 8/3/2020 5:36:14 PM
+
 * expand CG s 2 4
 * expands mouse modifiers with wheel
 * attempt to use F keys for group assig s
@@ -11,7 +12,6 @@ dank
 * reconfig build keys for Undead
 * expands CG s assing, call and viewport centre for buildings 5 6 7 and 4
 * viewport TC s
-
 
 10/3/2020 11:55:40 PM
 * added osk chat
@@ -26,3 +26,13 @@ dank
 
 * experiment with !/^c for scout forward formations?
 * test split scout save group hotkey
+
+
+12/3/2020 
+* fine tune viewports to [pose](https://github.com/FutureLearnSole/ahks/wiki/pose-L-R)
+  *  a
+* 
+* 
+* 
+* 
+* 
