@@ -7,7 +7,7 @@
 * fine tuned ` split() ` 
 * trim `build`  keys for humaan
 * **add** `camera_drag()` 
-* 
+* reconfig  `assig<>` 1-4 to make room for camera drag
 
 
 
