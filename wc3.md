@@ -1,7 +1,15 @@
 # dank
   * basic mouse
   * add/remove from CG s
-  
+ 
+21/3/2020 
+* **add** `item_switches()` 
+* 
+* 
+* 
+*
+ 
+ 
 14/3/2020 
 * add basic `small talk()`   to mask cheese strategies
 * fine tuned ` split() ` 
