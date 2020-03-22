@@ -2,6 +2,14 @@
   * basic mouse
   * add/remove from CG s
  
+ 21/3/2020 
+*  modify CG s assing, call (viewport centre) for scouts/misc. 8 9 0 
+* include additional assig. for 5 6 7
+* added comments on `item_switches()` based on in-gmae obs.
+* **create** race specific QoL
+*
+ 
+ 
 21/3/2020 
 * **add** `item_switches()` 
 * 
