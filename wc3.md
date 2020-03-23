@@ -3,10 +3,10 @@
   * add/remove from CG s
  
  23/3/2020 
-*  **expand** f3 f4 call (viewport centre)
+*  expand f3 f4 call (viewport centre)
 * **procreate** f1 f2 f3 f4 addSelect() to groups 1 2 3 4
-* **dupe** base(2) call on third row for extra tabs on expansions
-* 
+* duped base(2) call on third row for extra tabs on expansions
+* **proclaimed** reach issues and shifted combinators with 'd&' for ease
 *
 *
 *
