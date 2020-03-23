@@ -2,7 +2,17 @@
   * basic mouse
   * add/remove from CG s
  
- 21/3/2020 
+ 23/3/2020 
+*  **expand** f3 f4 call (viewport centre)
+* **procreate** f1 f2 f3 f4 addSelect() to groups 1 2 3 4
+* **dupe** base(2) call on third row for extra tabs on expansions
+* 
+*
+*
+*
+ 
+ 
+ 22/3/2020 
 *  modify CG s assing, call (viewport centre) for scouts/misc. 8 9 0 
 * include additional assig. for 5 6 7
 * added comments on `item_switches()` based on in-gmae obs.
