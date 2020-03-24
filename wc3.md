@@ -2,13 +2,15 @@
   * basic mouse
   * add/remove from CG s
  
-  24/3/2020 
+24/3/2020 
+  
 *
   * '`' made into `camera_drag()` 
   * `rbutton` for 5 6 7 8 9 0 calls w/o view port, laid atop 1 2 3 4
 *
  
- 23/3/2020 
+23/3/2020 
+ 
 *
   *  expand f3 f4 call (viewport centre)
   * **procreate** f1 f2 f3 f4 addSelect() to groups 1 2 3 4
@@ -17,6 +19,7 @@
 
  
  22/3/2020 
+  
 *
   *  modify CG s assing, call (viewport centre) for scouts/misc. 8 9 0 
   * include additional assig. for 5 6 7
