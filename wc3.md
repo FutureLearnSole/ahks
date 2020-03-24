@@ -2,31 +2,31 @@
   * basic mouse
   * add/remove from CG s
  
- 23/3/2020 
-*  expand f3 f4 call (viewport centre)
-* **procreate** f1 f2 f3 f4 addSelect() to groups 1 2 3 4
-* duped base(2) call on third row for extra tabs on expansions
-* **proclaimed** reach issues and shifted combinators with 'd&' for ease
+  24/3/2020 
 *
-*
+  * '`' made into `camera_drag()` 
+  * `rbutton` for 5 6 7 8 9 0 calls w/o view port, laid atop 1 2 3 4
 *
  
+ 23/3/2020 
+*
+  *  expand f3 f4 call (viewport centre)
+  * **procreate** f1 f2 f3 f4 addSelect() to groups 1 2 3 4
+  * duped base(2) call on third row for extra tabs on expansions
+  * **proclaimed** reach issues and shifted combinators with 'd&' for ease
+
  
  22/3/2020 
-*  modify CG s assing, call (viewport centre) for scouts/misc. 8 9 0 
-* include additional assig. for 5 6 7
-* added comments on `item_switches()` based on in-gmae obs.
-* **create** race specific QoL
 *
+  *  modify CG s assing, call (viewport centre) for scouts/misc. 8 9 0 
+  * include additional assig. for 5 6 7
+  * added comments on `item_switches()` based on in-gmae obs.
+  * **create** race specific QoL
  
  
 21/3/2020 
 * **add** `item_switches()` 
-* 
-* 
-* 
-*
- 
+
  
 14/3/2020 
 * add basic `small talk()`   to mask cheese strategies
@@ -34,7 +34,6 @@
 * trim `build`  keys for humaan
 * **add** `camera_drag()` 
 * reconfig  `assig<>` 1-4 to make room for camera drag
-
 
 
 8/3/2020 5:36:14 PM
