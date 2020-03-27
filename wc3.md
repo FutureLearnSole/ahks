@@ -2,6 +2,13 @@
   * basic mouse
   * add/remove from CG s
  
+ 25/3/2020 
+ 
+*
+  *  mass swap rbutton ties with lbutton
+  * trial local versioning
+  * 
+ 
 24/3/2020 
   
 *
