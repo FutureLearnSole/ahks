@@ -2,6 +2,12 @@
   * basic mouse
   * add/remove from CG s
  
+ 
+ 27/3/2020 
+ 
+*
+  *  adress issue [movement](https://github.com/FutureLearnSole/ahks/issues/7#issuecomment-604799162)
+ 
  25/3/2020 
  
 *
