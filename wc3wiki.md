@@ -1,1 +1,4 @@
-variant opening TS
+#ToD Tuesday
+
+-variant opening TS
+-rifles MK
